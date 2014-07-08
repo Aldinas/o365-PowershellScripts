@@ -1,9 +1,9 @@
 #################################################################
-# CSV file must be in the same directory as this script			#
-# it must be called EmailAliases.csv, and contain at least		#
-# two columns, one called UserID and one called Alias1			#
+# CSV file must be in the same directory as this script		#
+# it must be called EmailAliases.csv, and contain at least	#
+# two columns, one called UserID and one called Alias1		#
 # Additional columns must increment up in number, i.e. Alias2	#
-# Alias 3 etc. An example csv has been provided.				#
+# Alias 3 etc. An example csv has been provided.		#
 #################################################################
 
 # Import from the CSV file
